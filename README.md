@@ -1,6 +1,6 @@
 # 這是我的論文程式環境
 
->詳細操作請看 程式文件-aug-26-2017.pdf https://github.com/s0920832252/An-Improved-Synthetic-Minority-Over-sampling-Technique-for-Imbalanced-Data-Set-Learning/blob/master/%E7%A8%8B%E5%BC%8F%E6%96%87%E4%BB%B6-aug-26-2017.pdf
+>詳細操作請看 程式文件-aug-26-2017.pdfhttps://github.com/s0920832252/An-Improved-Synthetic-Minority-Over-sampling-Technique-for-Imbalanced-Data-Set-Learning/blob/master/%E7%A8%8B%E5%BC%8F%E6%96%87%E4%BB%B6-aug-26-2017.pdf
 >> 預設的實驗流程是
 >> 1. over-sampling 方法替訓練集產生人造實例後得到一個新的訓練集，此新的
 >> 訓練集會各自使用 KNN/DT/SVM/NB/Logitc 等五種分類演算法訓練一個分類器(共五個)，此五個分類器會以 Accuracy/TP/FP/Precision/AUC/Gmean/F-measure
