@@ -9,7 +9,7 @@
 >> 3. 預設要一起比較的 over-sampling 方法為{ISMOTE,B-SMOTE,ADASYN,MSMOTE,MWMOTE,SMOTE}共六種
 >> ISMOTE 方法在使用 Script_Experience 函數時可替換成別的方法。
 >> 
->> Script_Experience 
+>> 使用Script_Experience 作為程式的進入點(亦可不用)
 >> 1. 使用者可透過此函數設計出自己的實驗流程
 >> 2. Script_Experience 的設計概念為實驗的腳本，使用者可一次安排複數的實驗檢定。，亦可直接在 Matlab 視窗下呼叫
 >> Performance_Wilcoxon 或者 Performance_t_test 程式在執行完成後輸出該程式執行的結果。 
