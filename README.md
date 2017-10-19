@@ -16,4 +16,4 @@
 >>
 
 
->論文理論則看 論文初稿20170828.pdf
+>[論文理論則看 論文初稿20170828.pdf](https://github.com/s0920832252/An-Improved-Synthetic-Minority-Over-sampling-Technique-for-Imbalanced-Data-Set-Learning/blob/master/%E8%AB%96%E6%96%87%E5%88%9D%E7%A8%BF20170828.pdf)
